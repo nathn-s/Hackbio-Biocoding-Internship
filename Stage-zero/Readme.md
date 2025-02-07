@@ -1,3 +1,4 @@
+## Stage Zero
 _**Topics Covered: Coding Syntax, Data types and Data Structures**
 in R & Python_
 
