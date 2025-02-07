@@ -10,3 +10,8 @@ _**Task Instruction**_
 - Without using functions, loops, conditionals, or any complex methods
 - Print the final statement for logically organised output
 - Create a simple video tutorial with team mate & Public on LinkedIn and tag HackBio
+
+
+
+_**Solution**_
+The member nformation were nested to dictionaries for simple use in the further stage e.g. for loops, complex functions.
