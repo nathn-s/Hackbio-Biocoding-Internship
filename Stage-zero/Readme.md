@@ -4,7 +4,7 @@ in R & Python_
 
 
 
-_**Task Instruction**_
+### Task Instruction
 - Form team at least 5 people
 - Use data structure either R and Python to organise the team information; name, slack usernase, email, hobby, country, discipline, preferred language program
 - Without using functions, loops, conditionals, or any complex methods
@@ -13,5 +13,6 @@ _**Task Instruction**_
 
 
 
-_**Solution**_
-The member nformation were nested to dictionaries for simple use in the further stage e.g. for loops, complex functions.
+### Task Solution
+
+The members information were nested to dictionaries for simple use in the further stage e.g. for loops, complex functions.
