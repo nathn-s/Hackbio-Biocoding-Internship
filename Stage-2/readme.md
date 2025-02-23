@@ -1,8 +1,7 @@
 # Stage 2
 _**Internship Topics Covered: Dataframe and Visualization in Biological practice **_
 
-## Task List
-### Task code 2.4 - Biochemistry & Oncology
+## Task code 2.4 - Biochemistry & Oncology
 **Reference** Dateset from [Phenotype inference in an Escherichia coli strain panel](https://elifesciences.org/articles/31035)
 eLife 2017;6:e31035; doi: [10.7554/eLife.31035](https://doi.org/10.7554/eLife.31035)
 Which're uploaded through HackBio:
@@ -39,3 +38,29 @@ Which're uploaded through HackBio:
 
 6. **Amino acid substitution nomenclature:**
     * Get familiar with amino acid substitution nomenclature.
+  
+### **Results**
+
+G is the amino acid with the highest impact on protein structure and function, based on the number of deleterious mutations it is involved in.
+
+![image](https://github.com/user-attachments/assets/0e766a4c-5246-48c5-8990-217a981f1874)
+![image](https://github.com/user-attachments/assets/26e36044-5a88-4d71-b748-ffb22ff3acc9)
+
+
+### Table: Amino acids with more than 100 occurrences in deleterious mutations
+
+| Amino Acid | Count | Properties                                                                                                                                                                                                                            |
+| :---------: | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|      G      | 1307  | Glycine. Smallest amino acid; provides flexibility; often found in turns and loops. Its small size allows for unique backbone conformations.                                                                                   |
+|      L      |  739  | Leucine. Aliphatic, hydrophobic; often found in protein core, contributing to hydrophobic interactions and protein stability.                                                                                              |
+|      A      |  640  | Alanine. Nonpolar, hydrophobic; small and versatile, found in both buried and exposed regions.                                                                                                                          |
+|      P      |  470  | Proline. Rigid, cyclic structure; introduces kinks/turns; frequently in loops and turns, important for defining protein structure.                                                                                     |
+|      V      |  380  | Valine. Nonpolar, hydrophobic; similar to alanine but larger; typically found in the protein interior, contributing to the hydrophobic core.                                                                                    |
+|      R      |  227  | Arginine. Basic, positively charged; often surface-exposed; involved in salt bridges and interactions with negatively charged molecules.                                                                                        |
+|      I      |  212  | Isoleucine. Hydrophobic; similar to leucine and valine; contributes to protein stability by being buried in the hydrophobic core.                                                                                               |
+|      Y      |  172  | Tyrosine. Aromatic, polar; can participate in hydrogen bonds and stacking interactions; can be phosphorylated, playing a role in signaling.                                                                                     |
+|      D      |  171  | Aspartic Acid. Negatively charged; often surface-exposed; involved in salt bridges and coordination of metal ions.   |
+|      F      |  169  | Phenylalanine. Aromatic, hydrophobic; contributes to hydrophobic core and can participate in stacking interactions.                                                                                                            |
+|      S      |  158  | Serine. Polar, uncharged; participates in hydrogen bonds; can be phosphorylated, important for cell signaling.                                                                                                             |
+|      T      |  126  | Threonine. Polar, uncharged; participates in hydrogen bonds; can be phosphorylated, important for cell signaling.  Similar to Serine.                                                                                            |
+|      W      |  108  | Tryptophan. Aromatic, bulky, hydrophobic; contributes to hydrophobic core and can participate in stacking interactions; often involved in protein-ligand interactions due to its aromaticity.                                    |
